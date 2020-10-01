@@ -1,5 +1,5 @@
 # <p align="center">interesting-python: 有趣的Python爬虫和数据分析小项目</p>
-
+#committed  chancge
 <p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/状态-持续更新中-brightgreen.svg">
@@ -87,7 +87,7 @@
 - 对应微信公众号文章：《[大胆，都是哪些程序员在反对996？！](https://mp.weixin.qq.com/s/BZhHcEwdUJNJRVFix8NRSQ)》
 - 适合人群：Python爬虫学习者、Python数据分析学习者、Pandas使用者、数据可视化学习者
 - 难度：★★☆☆☆
-
+#dont understand japaneese
 </br>
 
 6. **Paediatrician**:
